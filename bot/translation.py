@@ -17,7 +17,7 @@ working at @madness_request
 </i>"""    
     
     HELP_TEXT = """
-nothing to see here......😉
+No one is Gonna Help you.......😐😐
   
 """
     
